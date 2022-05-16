@@ -1,4 +1,4 @@
 # Gymnasiearbetet
 
 
-Läran om minnesläsning, programmering i c++ och hur spel är uppbyggda.
+Läran om hur minnesläsning, programmering i c++ och spel är uppbyggda.
